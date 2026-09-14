@@ -1,0 +1,6 @@
+sandbox/
+snapshots/
+incident_state.json
+dashboard_state.json
+__pycache__/
+*.pyc
